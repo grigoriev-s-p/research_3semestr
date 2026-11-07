@@ -1,0 +1,91 @@
+,id,scheme,response,processed_response,abstain,isAnswerable,sufficiency_raw
+0,56e0f3907aa994140058e80a,1,ANSWER: full union,full union,0,1,
+1,56e0f3907aa994140058e80a,2,ANSWER: full union,full union,0,1,
+2,56e0f3907aa994140058e80a,3,ANSWER: full union,full union,0,1,SUFFICIENT
+3,5a36fffb95360f001af1b3c1,1,ANSWER: The number of the fiscal year was roughly equivalent to the Hegira year (see Rumi calendar).,The number of the fiscal year was roughly equivalent to the Hegira year (see Rumi calendar).,0,0,
+4,5a36fffb95360f001af1b3c1,2,ANSWER: The Hegira year (see Rumi calendar),The Hegira year (see Rumi calendar),0,0,
+5,5a36fffb95360f001af1b3c1,3,ANSWER: The number of the fiscal year was roughly equivalent to the Hegira year (see Rumi calendar).,The number of the fiscal year was roughly equivalent to the Hegira year (see Rumi calendar).,0,0,SUFFICIENT
+6,571adcf932177014007e9f56,1,ANSWER: Its famous catechetical school,Its famous catechetical school,0,1,
+7,571adcf932177014007e9f56,2,ANSWER: Its famous catechetical school,Its famous catechetical school,0,1,
+8,571adcf932177014007e9f56,3,ANSWER: Its famous catechetical school,Its famous catechetical school,0,1,SUFFICIENT
+9,5a0803c33fc8740018207115,1,ABSTAIN,ABSTAIN,1,0,
+10,5a0803c33fc8740018207115,2,ABSTAIN,ABSTAIN,1,0,
+11,5a0803c33fc8740018207115,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+12,57325b9fe99e3014001e670c,1,ANSWER: by disparaging individual decision-making,by disparaging individual decision-making,0,1,
+13,57325b9fe99e3014001e670c,2,ABSTAIN,ABSTAIN,1,1,
+14,57325b9fe99e3014001e670c,3,ANSWER: by disparaging individual decision-making,by disparaging individual decision-making,0,1,SUFFICIENT
+15,5a811e7a31013a001a334b90,1,ANSWER: the observer (and his velocity),the observer (and his velocity),0,0,
+16,5a811e7a31013a001a334b90,2,ANSWER: the observer (and his velocity),the observer (and his velocity),0,0,
+17,5a811e7a31013a001a334b90,3,ANSWER: the observer (and his velocity),the observer (and his velocity),0,0,SUFFICIENT
+18,5728d8be4b864d1900164f6b,1,"ANSWER: black bread, pork, potatoes, and dairy products","black bread, pork, potatoes, and dairy products",0,1,
+19,5728d8be4b864d1900164f6b,2,"ANSWER: black bread, pork, potatoes, and dairy products","black bread, pork, potatoes, and dairy products",0,1,
+20,5728d8be4b864d1900164f6b,3,"ANSWER: black bread, pork, potatoes, and dairy products","black bread, pork, potatoes, and dairy products",0,1,SUFFICIENT
+21,5a8cb0dcfd22b3001a8d8d3e,1,ANSWER: Biodiversity,Biodiversity,0,0,
+22,5a8cb0dcfd22b3001a8d8d3e,2,ABSTAIN,ABSTAIN,1,0,
+23,5a8cb0dcfd22b3001a8d8d3e,3,ANSWER: Biodiversity,Biodiversity,0,0,SUFFICIENT
+24,56f6f5e1711bf01900a44898,1,ANSWER: wood,wood,0,1,
+25,56f6f5e1711bf01900a44898,2,ANSWER: wood,wood,0,1,
+26,56f6f5e1711bf01900a44898,3,ANSWER: wood,wood,0,1,SUFFICIENT
+27,5a6fe8a58abb0b001a676045,1,ANSWER: wooden barrels,wooden barrels,0,0,
+28,5a6fe8a58abb0b001a676045,2,ABSTAIN,ABSTAIN,1,0,
+29,5a6fe8a58abb0b001a676045,3,ANSWER: wooden barrels,wooden barrels,0,0,SUFFICIENT
+30,5728fd38af94a219006a9edd,1,ANSWER: Kyoto,Kyoto,0,1,
+31,5728fd38af94a219006a9edd,2,ANSWER: Kyoto,Kyoto,0,1,
+32,5728fd38af94a219006a9edd,3,ANSWER: Kyoto,Kyoto,0,1,SUFFICIENT
+33,5ad01e2d77cf76001a686a9c,1,ABSTAIN,ABSTAIN,1,0,
+34,5ad01e2d77cf76001a686a9c,2,ABSTAIN,ABSTAIN,1,0,
+35,5ad01e2d77cf76001a686a9c,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+36,5726c774f1498d1400e8eb0d,1,"ANSWER: The modern province of Utrecht (Nedersticht, 'lower Sticht') and the Veluwe region and large areas in the modern province of Overijssel.","The modern province of Utrecht (Nedersticht, 'lower Sticht') and the Veluwe region and large areas in the modern province of Overijssel.",0,1,
+37,5726c774f1498d1400e8eb0d,2,"ANSWER: the modern province of Utrecht (Nedersticht, 'lower Sticht'), the Veluwe region, and large areas in the modern province of Overijssel","the modern province of Utrecht (Nedersticht, 'lower Sticht'), the Veluwe region, and large areas in the modern province of Overijssel",0,1,
+38,5726c774f1498d1400e8eb0d,3,"ANSWER: The modern province of Utrecht (Nedersticht, 'lower Sticht') and the Veluwe region and large areas in the modern province of Overijssel.","The modern province of Utrecht (Nedersticht, 'lower Sticht') and the Veluwe region and large areas in the modern province of Overijssel.",0,1,SUFFICIENT
+39,5ace5cb432bba1001ae4a3f9,1,ABSTAIN,ABSTAIN,1,0,
+40,5ace5cb432bba1001ae4a3f9,2,ABSTAIN,ABSTAIN,1,0,
+41,5ace5cb432bba1001ae4a3f9,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+42,57264da2dd62a815002e8108,1,ABSTAIN,ABSTAIN,1,1,
+43,57264da2dd62a815002e8108,2,ABSTAIN,ABSTAIN,1,1,
+44,57264da2dd62a815002e8108,3,ABSTAIN,ABSTAIN,1,1,SUFFICIENT
+45,5a5455d2134fea001a0e1731,1,ABSTAIN,ABSTAIN,1,0,
+46,5a5455d2134fea001a0e1731,2,ABSTAIN,ABSTAIN,1,0,
+47,5a5455d2134fea001a0e1731,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+48,56fdeee819033b140034cde7,1,ANSWER: a PDA or a hand-held videogame,a PDA or a hand-held videogame,0,1,
+49,56fdeee819033b140034cde7,2,ANSWER: A PDA or a hand-held videogame,A PDA or a hand-held videogame,0,1,
+50,56fdeee819033b140034cde7,3,ANSWER: a PDA or a hand-held videogame,a PDA or a hand-held videogame,0,1,SUFFICIENT
+51,5acfc41c77cf76001a685dd9,1,ABSTAIN,ABSTAIN,1,0,
+52,5acfc41c77cf76001a685dd9,2,ABSTAIN,ABSTAIN,1,0,
+53,5acfc41c77cf76001a685dd9,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+54,56fb84ebb28b3419009f1de7,1,ANSWER: ivory,ivory,0,1,
+55,56fb84ebb28b3419009f1de7,2,ANSWER: ivory,ivory,0,1,
+56,56fb84ebb28b3419009f1de7,3,ANSWER: ivory,ivory,0,1,SUFFICIENT
+57,5ad16fd0645df0001a2d1b55,1,ANSWER: seize power,seize power,0,0,
+58,5ad16fd0645df0001a2d1b55,2,ANSWER: seize power,seize power,0,0,
+59,5ad16fd0645df0001a2d1b55,3,ANSWER: seize power,seize power,0,0,SUFFICIENT
+60,57325c2fe99e3014001e6716,1,ANSWER: part of the power structure rather than subject to it,part of the power structure rather than subject to it,0,1,
+61,57325c2fe99e3014001e6716,2,ANSWER: part of the power structure rather than subject to it,part of the power structure rather than subject to it,0,1,
+62,57325c2fe99e3014001e6716,3,ANSWER: part of the power structure rather than subject to it,part of the power structure rather than subject to it,0,1,SUFFICIENT
+63,5acd8f1007355d001abf4718,1,ABSTAIN,ABSTAIN,1,0,
+64,5acd8f1007355d001abf4718,2,ABSTAIN,ABSTAIN,1,0,
+65,5acd8f1007355d001abf4718,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+66,56e43a6e8c00841900fbaf42,1,ANSWER: High German (including standard German),High German (including standard German),0,1,
+67,56e43a6e8c00841900fbaf42,2,ABSTAIN,ABSTAIN,1,1,
+68,56e43a6e8c00841900fbaf42,3,ANSWER: High German (including standard German),High German (including standard German),0,1,SUFFICIENT
+69,5a7a20d417ab25001a8a035f,1,ABSTAIN,ABSTAIN,1,0,
+70,5a7a20d417ab25001a8a035f,2,ABSTAIN,ABSTAIN,1,0,
+71,5a7a20d417ab25001a8a035f,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+72,572723b8dd62a815002e9957,1,"ANSWER: High-voltage capacitors are stored with the terminals shorted, as protection from potentially dangerous voltages due to dielectric absorption or from transient voltages the capacitor may pick up from static charges or passing weather events.","High-voltage capacitors are stored with the terminals shorted, as protection from potentially dangerous voltages due to dielectric absorption or from transient voltages the capacitor may pick up from static charges or passing weather events.",0,1,
+73,572723b8dd62a815002e9957,2,ANSWER: High-voltage capacitors are stored with the terminals shorted.,High-voltage capacitors are stored with the terminals shorted.,0,1,
+74,572723b8dd62a815002e9957,3,"ANSWER: High-voltage capacitors are stored with the terminals shorted, as protection from potentially dangerous voltages due to dielectric absorption or from transient voltages the capacitor may pick up from static charges or passing weather events.","High-voltage capacitors are stored with the terminals shorted, as protection from potentially dangerous voltages due to dielectric absorption or from transient voltages the capacitor may pick up from static charges or passing weather events.",0,1,SUFFICIENT
+75,5ad3de0b604f3c001a3ff454,1,ABSTAIN,ABSTAIN,1,0,
+76,5ad3de0b604f3c001a3ff454,2,ABSTAIN,ABSTAIN,1,0,
+77,5ad3de0b604f3c001a3ff454,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+78,572686975951b619008f75a3,1,"ANSWER: Sloan Park in Mesa, Arizona","Sloan Park in Mesa, Arizona",0,1,
+79,572686975951b619008f75a3,2,"ANSWER: Sloan Park in Mesa, Arizona","Sloan Park in Mesa, Arizona",0,1,
+80,572686975951b619008f75a3,3,"ANSWER: Sloan Park in Mesa, Arizona","Sloan Park in Mesa, Arizona",0,1,SUFFICIENT
+81,5a63b1657f3c80001a150b09,1,ABSTAIN,ABSTAIN,1,0,
+82,5a63b1657f3c80001a150b09,2,ABSTAIN,ABSTAIN,1,0,
+83,5a63b1657f3c80001a150b09,3,INSUFFICIENT,None,1,0,INSUFFICIENT
+84,56e7ba3537bdd419002c43d1,1,ANSWER: Jiangsu Sainty,Jiangsu Sainty,0,1,
+85,56e7ba3537bdd419002c43d1,2,ANSWER: Jiangsu Sainty,Jiangsu Sainty,0,1,
+86,56e7ba3537bdd419002c43d1,3,ANSWER: Jiangsu Sainty,Jiangsu Sainty,0,1,SUFFICIENT
+87,5a82f946e60761001a2eb285,1,ABSTAIN,ABSTAIN,1,0,
+88,5a82f946e60761001a2eb285,2,ABSTAIN,ABSTAIN,1,0,
+89,5a82f946e60761001a2eb285,3,INSUFFICIENT,None,1,0,INSUFFICIENT
