@@ -4,12 +4,12 @@ import evaluate
 from datasets import load_dataset
 
 metric = evaluate.load("squad_v2")
-data = load_dataset("rajpurkar/squad_v2", split="train")
+data = load_dataset("rajpurkar/squad_v2", split="valid")
 data = {example["id"]: example for example in data}
 
 def calculate_metrics(row):
     if row["invalid_format"] == 1:
-        return pd.Series({"em": float("nan"), "f1": float("nan")})
+        return pd.Series({"em": 0, "f1": 0  })
 
     id = row["id"]
     prediction = row["processed_response"]
@@ -134,8 +134,8 @@ scheme_1_with_answer = {
     "false_abstain": uncorrect_abstain_1 / n_1,
     "invalid_format_rate": invalid_1 / n_1,
     "invalid_format_count": invalid_1,
-    "EM": em_1 / (n_1 - invalid_1) if n_1 > invalid_1 else float("nan"),
-    "F1": f1_1 / (n_1 - invalid_1) if n_1 > invalid_1 else float("nan")
+    "EM": em_1 /n_1,
+    "F1": f1_1 /n_1
 }
 
 scheme_2_with_answer = {
@@ -144,8 +144,8 @@ scheme_2_with_answer = {
     "false_abstain": uncorrect_abstain_2 / n_2,
     "invalid_format_rate": invalid_2 / n_2,
     "invalid_format_count": invalid_2,
-    "EM": em_2 / (n_2 - invalid_2) if n_2 > invalid_2 else float("nan"),
-    "F1": f1_2 / (n_2 - invalid_2) if n_2 > invalid_2 else float("nan")
+    "EM": em_2 / n_2,
+    "F1": f1_2 / n_2
 }
 
 scheme_3_with_answer = {
@@ -154,8 +154,8 @@ scheme_3_with_answer = {
     "false_abstain": uncorrect_abstain_3 / n_3,
     "invalid_format_rate": invalid_3 / n_3,
     "invalid_format_count": invalid_3,
-    "EM": em_3 / (n_3 - invalid_3) if n_3 > invalid_3 else float("nan"),
-    "F1": f1_3 / (n_3 - invalid_3) if n_3 > invalid_3 else float("nan")
+    "EM": em_3 /n_3,
+    "F1": f1_3 /n_3
 }
 
 table_1 = pd.DataFrame(
